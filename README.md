@@ -1,5 +1,5 @@
 # uniConSig_and_CSEA
-This code of uniConSig is for research use only, read the file "Software Academic Use EULA - Pitt ID #04440.docx" for details<br>
+This code of uniConSig is for research use only, read the file "Software Academic Use EULA - Pitt ID #04440.docx" for terms of use<br><br>
 development of uniConSig and CSEA algorithm<br>
 
 1 Installation of uniConSig in R<br>
