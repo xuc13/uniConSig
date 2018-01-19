@@ -1,8 +1,8 @@
 # uniConSig_and_CSEA
-This code of uniConSig is for research use only<br>
+This code of uniConSig is for research use only, read the file "Software Academic Use EULA - Pitt ID #04440.docx" for details<br>
 development of uniConSig and CSEA algorithm<br>
 
-1. Installation of uniConSig in R<br>
+1 Installation of uniConSig in R<br>
 1.1 Install development tools for local package installations<br>
 UniConSig has been implemented in an R package. Currently it can only be installed by local package installation. To do local package installation in R, you need to install the package "devtools" first. The following R codes can be directly pasted into R for the installation:<br>
 
