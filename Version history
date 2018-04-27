@@ -1,0 +1,8 @@
+Version2.0 (04/27/2018):<br>
+1. Add a new function of pre-calculation. The penalization factors and the Effective Concept Number(ECN) are independent of the input gene<br>
+   list, therefore it's not necessary to calculate them each time we calculate the uniConSig score. The new function will be named as<br>
+   "uniConSig.precal". It will use the input of the Jaccard Index matrix, and output a file containing all the penalization factors and ECNs<br>
+   needed for calculation.<br>
+2. Reform the "uniConSig" function to use the pre-calculation result. The main function "uniConSig" will also be renamed as "uniConSig.main"<br>
+   After this optimization of the calculation strategy, the runtime for uniConSig will be reduced significantly (less than 2 minutes if use<br>
+   perl version).
